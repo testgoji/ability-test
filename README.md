@@ -16,7 +16,7 @@
 10. Configure your git `user.name` & `user.email`.
 	- `user.name` : `testgoji`
 	- `user.email` : `testgoji@gmail.com`
-	- `git password` : `asdfasdf`
+	- `git password` : `asdfasdf777!`
 11. Push the file(s) to the remote repository.
 12. Next rename the `S1` file to be your first name.
 13. Delete/remove the `S2` file.
