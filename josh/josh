@@ -1,1 +1,16 @@
-hello world
+<php
+
+//A program that counts from 1 - 100, and outputing Fizz if it's a multiple of 5, or buzz if it's a multiple of 3.
+
+for ($x = 1; $x<=100; $x++) {
+
+  echo $x;
+
+  if ($x% == 5) {echo "Fizz";}
+
+  if ($x% == 3) {echo "Buzz";}
+
+} 
+
+
+?>
