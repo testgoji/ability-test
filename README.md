@@ -23,6 +23,8 @@
 14. Create another file named `S3`.
 15. Add `S3` to the `.gitignore` file
 	- If the `.gitignore` file dows not exist, you will need to create it. 
+16. Edit `S1` and do the following. 
+	> Write a program that prints the numbers from 1 to 100. If it’s a multiple of 3, it should print “Fizz”. If it’s a multiple of 5, it should print “Buzz”. If it’s a multiple of 3 and 5, it should print “Fizz Buzz”.
 16. Stage the change(s).
 17. Commit the change(s).
 18. Push the change(s).
